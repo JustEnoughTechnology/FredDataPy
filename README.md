@@ -1,1 +1,1 @@
-#FRED DAta API for Python
+# FRED Data API for Python
