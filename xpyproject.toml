@@ -1,0 +1,20 @@
+[project]
+name = "FredAPIPy"
+description = "Fred API Package"
+version = "0.1.0"
+authors = [
+    { name = "Rob Wolfe", email = "rob@robtalksnonsense.com" }
+]
+dependencies = [
+    "pandas",
+    "django"
+]
+#
+#[project.optional-dependencies]
+#dev = [
+    
+#]
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
