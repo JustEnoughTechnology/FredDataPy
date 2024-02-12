@@ -1,4 +1,8 @@
-requests
-pandas
+python-dotenv
+
+requests 
+
+pandas 
+
 django >=5
-dotenv
+
